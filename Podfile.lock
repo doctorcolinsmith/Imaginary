@@ -1,0 +1,16 @@
+PODS:
+  - Cache (4.2.1)
+
+DEPENDENCIES:
+  - Cache (= 4.2.1)
+
+SPEC REPOS:
+  https://bitbucket.org/digitalanimalca/ios-pods.git:
+    - Cache
+
+SPEC CHECKSUMS:
+  Cache: c3307248aaccf525ad5cc3a8f9f507f0dd4d8e78
+
+PODFILE CHECKSUM: ef69ad929375d1abbbb4cc082024de67ede2b355
+
+COCOAPODS: 1.5.3
